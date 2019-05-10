@@ -1,2 +1,2 @@
 # Reaction_Timer
-This is a reaction timer, which basically measure the reaction time of a person using FPGA (Basys3 board)  completely written in verilog
+This project is basically to make a digital system which allow user's to measure their reaction time, this is like there will be two push button one will be hidden to user, it is used by some other person to ON the led at any time which user doesn't know and other will be at user when led stared glowing, time counting will start with resolution of (1/100th) of second and user need to press the button to stop the counting. thus calculating the reaction time. This system is implemented on FPGA (Basys3) Board and completely written in verilog. 
